@@ -1,0 +1,1 @@
+Exrtract this folder into the htdocs folder of xampp folder
